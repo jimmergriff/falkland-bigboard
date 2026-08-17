@@ -70,6 +70,11 @@ export const Navigation: React.FC = () => {
                     : 'text-blue-200 hover:text-white'
                 }`}
               >
+                <img 
+                  src="/pine-logo.png" 
+                  alt="Pine" 
+                  style={{ height: '20px', width: 'auto', display: 'inline', marginRight: '4px' }}
+                />
                 Pine
               </button>
             </div>
